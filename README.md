@@ -23,7 +23,7 @@ https://docs.oracle.com/javase/specs/jvms/se12/html/index.html
 
   ###  [基本数据类型](https://github.com/huifrank/The-Java-Virtual-Machine-Specification/blob/master/2-The_Structure_of_The_Java_Virtual_Machine/2.3_Primitive_Types_and_Values/Primitive_Types_and_Values.md)
 
-  ​	[整型](https://github.com/huifrank/The-Java-Virtual-Machine-Specification/blob/maste	r/2-The_Structure_of_The_Java_Virtual_Machine/2.3_Primitive_Types_and_Values/2.3.1_Integral_Types_and_Values.md)
+  ​	[整型](https://github.com/huifrank/The-Java-Virtual-Machine-Specification/blob/master/2-The_Structure_of_The_Java_Virtual_Machine/2.3_Primitive_Types_and_Values/2.3.1_Integral_Types_and_Values.md)
 
   ​	[浮点类型](https://github.com/huifrank/The-Java-Virtual-Machine-Specification/blob/master/2-The_Structure_of_The_Java_Virtual_Machine/2.3_Primitive_Types_and_Values/2.3.2_Floating-Point_Types_Value_Sets_and_Values.md)
 
