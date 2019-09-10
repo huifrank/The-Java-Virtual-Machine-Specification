@@ -10,14 +10,15 @@
    `--'  `--' `--'`------'       `-----'     `-'    `--'   `--'        `-----'`--'     `------'  `-----'  
 ```
 
+# The Java® Virtual Machine Specification
 
+**Java SE 12 Edition**
 
-## java 虚拟机规范 se12 中文翻译
+Java虚拟机规范(Java SE 12)
 
-base on
 https://docs.oracle.com/javase/specs/jvms/se12/html/index.html
 
-
+持续更新中  
 
 ```
 
