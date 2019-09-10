@@ -12,9 +12,9 @@
 
 # The Java® Virtual Machine Specification
 
-**Java SE 12 Edition**
+## **Java SE 12 Edition**
 
-Java虚拟机规范(Java SE 12)
+## Java虚拟机规范(Java SE 12)
 
 https://docs.oracle.com/javase/specs/jvms/se12/html/index.html
 
