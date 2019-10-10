@@ -1,0 +1,1 @@
+Java虚拟机包含IEEE标准二进制浮点算术 (ANSI/IEEE Std. 754-1985, New York)中指定的浮点算术的子集。
