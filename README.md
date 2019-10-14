@@ -14,11 +14,13 @@
 
 **Java SE 12 Edition**
 
-Java虚拟机规范(Java SE 12)
+Java虚拟机规范(Java SE 12)  中文翻译
 
 https://docs.oracle.com/javase/specs/jvms/se12/html/index.html
 
 huifrank01#gmail.com
+
+文件名，标题未翻译。已更新的内容都是中文的。
 
 持续更新中  
 
